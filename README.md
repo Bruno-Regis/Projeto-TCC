@@ -2,7 +2,7 @@
 
 ## Resumo
  Este trabalho de conclusão de curso tem como objetivo criar um software no back-end e no front
-end, utlizando a linguagem de programação Python de interpolações espaciais, que apresente
+end, de interpolações espaciais, utlizando a linguagem de programação Python, que apresente
  visualizações para o usuário e permite a exportação de arquivos de imagem contendo dados
  georreferenciados para a posterior utilização em Sistemas de Informação Geográfica (SIG).
  Foram elaborados algoritmos que realizam os métodos de interpolação Inverso do Ponderado
